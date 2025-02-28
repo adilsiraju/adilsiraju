@@ -16,20 +16,20 @@ I'm a **BE student in AI & ML**, passionate about **Django development** and **d
 
 ### 🌱 Learning & Current Projects
 
-*   🏗 **Building:** [EcoVest](#) | [Lotus Wedding Hall](#)
+*   🏗 **Building:** [EcoVest](https://github.com/adilsiraju/Ecovest) | [Lotus Wedding Hall](#)
     
 *   🎯 **Currently Learning:** Django (Mastering it before moving into AI)
     
 *   📜 **Certifications:**
     
-    *   Python for Data Science • IBM ([Certificate](#))
+    *   Python for Data Science • IBM ([Certificate](https://www.credly.com/badges/3ddec349-51e9-4746-9ca9-361f86abe275/linked_in_profile))
         
     *   CS50x Harvard (Currently pursuing)
         
 
 ### 🔥 Featured Projects
 
-*   **🌿 EcoVest** – A Climate-Conscious Investment Platform \[[Repo](#)\]
+*   **🌿 EcoVest** – A Climate-Conscious Investment Platform \[[Repo](https://github.com/adilsiraju/Ecovest)\]
     
 *   **📊 Crypto Analyzer** – Built using Streamlit \[[Repo](#)\]
     
@@ -42,7 +42,7 @@ I'm currently open to collaborating on **Django-related projects**. If you have 
 
 ### 📬 Let's Connect
 
-*   🌐 **Website:** [adilsiraju.github.io](https://adilsiraju.github.io)
+*   🌐 **Website:** [Vitae](https://adilsiraju.github.io)
     
 *   💼 **LinkedIn:** [Mohammed Adil Siraju](https://linkedin.com/in/mohammed-adil-siraju)
     
