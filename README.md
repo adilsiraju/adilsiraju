@@ -1,5 +1,7 @@
 Hi there, I'm Mohammed Adil Siraju! 👋
 ======================================
+![LinkedIn Banner](https://github.com/user-attachments/assets/9ef604a6-f7e4-4034-89fa-ffd92d661607)
+
 
 ### 🚀 About Me
 
