@@ -18,7 +18,7 @@ I'm a **BE student in AI & ML**, passionate about **Django development** and **d
 
 ### 🌱 Learning & Current Projects
 
-*   🏗 **Building:** [EcoVest](https://github.com/adilsiraju/Ecovest) | [Lotus Wedding Hall](#)
+*   🏗 **Building:** [EcoVest](https://github.com/adilsiraju/Ecovest) | [Lotus Wedding Hall](#) | [BROCART](https://github.com/adilsiraju/brocart)
     
 *   🎯 **Currently Learning:** Django (Mastering it before moving into AI)
     
@@ -32,6 +32,8 @@ I'm a **BE student in AI & ML**, passionate about **Django development** and **d
 ### 🔥 Featured Projects
 
 *   **🌿 EcoVest** – A Climate-Conscious Investment Platform \[[Repo](https://github.com/adilsiraju/Ecovest)\]
+
+*   **🏪 BROCART** –  [[Repo](https://github.com/adilsiraju/brocart)\]
     
 *   **📊 Crypto Analyzer** – Built using Streamlit \[[Repo](#)\]
     
