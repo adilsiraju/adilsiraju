@@ -20,20 +20,20 @@ I'm a **BE student in AI & ML**, passionate about **Django development** and **d
 
 *   🏗 **Building:** [EcoVest](https://github.com/adilsiraju/Ecovest) | [Architecture Style Classifier](https://adilsiraju.github.io/Architecture-Style-Classifier/)
     
-*   🎯 **Currently Learning:** Django (Mastering it before moving into AI)
+*   🎯 **Currently Learning:** FastAI
     
 *   📜 **Certifications:**
     
     *   Python for Data Science • IBM ([Certificate](https://www.credly.com/badges/3ddec349-51e9-4746-9ca9-361f86abe275/linked_in_profile))
         
-    *   CS50x Harvard (Currently pursuing)
+    *   CS50x Harvard ([Certificate](https://cs50.harvard.edu/certificates/dd51f4e9-ae15-4b97-b7d2-a327ed19e692))
         
 
 ### 🔥 Featured Projects
 
 *   **🌿 EcoVest** – A Climate-Conscious Investment Platform \[[Repo](https://github.com/adilsiraju/Ecovest)\]
 
-*   **🏪 Architecture Style Classifier** –  [[Repo](https://adilsiraju.github.io/Architecture-Style-Classifier/)\]
+*   **🏪 Architecture Style Classifier** –  [[Project](https://adilsiraju.github.io/Architecture-Style-Classifier/)\]
     
 *   More on the way... 🚧
     
