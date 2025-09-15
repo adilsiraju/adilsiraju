@@ -5,49 +5,35 @@ Hi there, I'm Mohammed Adil Siraju! 👋
 
 ### 🚀 About Me
 
-I'm a **BE student in AI & ML**, passionate about **Django development** and **design**. While I'm diving deep into Python and Django, I also have experience in **C, Java, HTML, CSS, JS, and Bootstrap**. Currently, I’m focusing on mastering Django before shifting more into the AI field.
+I'm a **BE student in AI & ML** with hands-on experience in **deep learning, computer vision, and MLOps**. I specialize in building and deploying scalable machine learning solutions using **Python, PyTorch, and FastAI**. With a background as an AI DevOps Engineer Intern, I have a proven track record of automating ML deployment pipelines and implementing CI/CD workflows. I'm passionate about leveraging technology to solve problems and create impactful experiences.
 
 ### 🛠️ Tech Stack
 
-*   **Languages:** Python, C, Java, JavaScript
-    
-*   **Frameworks & Tools:** Django, Bootstrap, Streamlit
-    
-*   **Other Skills:** Web Design, Problem Solving
-    
+* **AI/ML:** PyTorch, FastAI, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+* **MLOps & Tools:** Docker, Kubernetes, Git, Jenkins, Jupyter
+* **Programming:** Python, SQL, JavaScript
+* **Web Tech:** Django, HTML/CSS
 
-### 🌱 Learning & Current Projects
+### 📈 Projects & Experience
 
-*   🏗 **Building:** [EcoVest](https://github.com/adilsiraju/Ecovest) | [Architecture Style Classifier](https://adilsiraju.github.io/Architecture-Style-Classifier/)
-    
-*   🎯 **Currently Learning:** FastAI
-    
-*   📜 **Certifications:**
-    
-    *   Python for Data Science • IBM ([Certificate](https://www.credly.com/badges/3ddec349-51e9-4746-9ca9-361f86abe275/linked_in_profile))
-        
-    *   CS50x Harvard ([Certificate](https://cs50.harvard.edu/certificates/dd51f4e9-ae15-4b97-b7d2-a327ed19e692))
-        
+* **Netflix Userbase Analysis** - [Repo](https://github.com/adilsiraju/Netflix-Userbase-EDA-Project)
+    * Conducted an exploratory data analysis (EDA) using Python to derive insights into user demographics, subscription patterns, and revenue metrics.
+* **Architectural Style Classifier** - [Project](https://adilsiraju.github.io/Architecture-Style-Classifier/) | [Repo](https://github.com/adilsiraju/Architecture-Style-Classifier/)
+    * Built and deployed a CNN-based classifier using FastAI and PyTorch to identify 25 architectural styles with 73% accuracy.
+* **EcoVest** - [Repo](https://github.com/adilsiraju/Ecovest)
+    * Developed a full-stack, climate-conscious investment platform using Django to assess the sustainability of investments.
+* **AI DevOps Engineer Intern @ Rooman Technology**
+    * Automated ML deployment pipelines using Docker, Kubernetes, and Jenkins, and implemented CI/CD workflows, reducing deployment cycle times by 30%.
 
-### 🔥 Featured Projects
+### 📜 Certifications
 
-*   **🌿 EcoVest** – A Climate-Conscious Investment Platform \[[Repo](https://github.com/adilsiraju/Ecovest)\]
+* **CS50x Harvard** - [Certificate](https://cs50.harvard.edu/certificates/dd51f4e9-ae15-4b97-b7d2-a327ed19e692)
+* **Python for Data Science • IBM** - [Certificate](https://www.credly.com/badges/3ddec349-51e9-4746-9ca9-361f86abe275/linked_in_profile)
+* **Problem Solving Using Computational Thinking • University of Michigan**
 
-*   **🏪 Architecture Style Classifier** –  [[Project](https://adilsiraju.github.io/Architecture-Style-Classifier/)\]
-    
-*   More on the way... 🚧
-    
+### 🤝 Let's Connect
 
-### 🤝 Open for Collaborations
-
-I'm currently open to collaborating on **Django-related projects**. If you have an idea, let’s connect!
-
-### 📬 Let's Connect
-
-*   🌐 **Website:** [Vitae](https://adilsiraju.github.io)
-    
-*   💼 **LinkedIn:** [Mohammed Adil Siraju](https://linkedin.com/in/mohammed-adil-siraju)
-    
-*   📧 **Email:** mohdadilsiraju@gmail.com
-    
-*   📞 **Phone:** +91 8113936995
+* **Website:** [Vitae](https://adilsiraju.github.io)
+* **LinkedIn:** [Mohammed Adil Siraju](https://linkedin.com/in/mohammed-adil-siraju)
+* **Email:** mohdadilsiraju@gmail.com
+* **Phone:** +91 8113936995
