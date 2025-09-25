@@ -16,7 +16,7 @@ I'm a **B.E. graduate in Artificial Intelligence & Machine Learning** (First Cla
 
 ### 📈 Projects & Experience
 
-- **Medical Document Classifier** - [Repo](https://github.com/adilsiraju/Medical-Case-Classifier)
+- **Medical Document Classifier** - [Project](https://huggingface.co/spaces/adilsiraju/Medical-Case-Classifier) | [Repo](https://github.com/adilsiraju/Medical-Case-Classifier)
   - Developed a medical document classifier by fine-tuning a pre-trained **Bio_ClinicalBERT** model using **Hugging Face Transformers** on a dataset of clinical texts.
   - Achieved **81.08% test accuracy** in classifying documents across 13+ medical specialties, with a top **F1-score of 0.968** for the "Cardiovascular / Pulmonary" specialty.
   - Deployed an interactive web application using **Gradio** for real-time medical text classification.
