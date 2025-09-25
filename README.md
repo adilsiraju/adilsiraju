@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-I'm a **B.E. graduate in Artificial Intelligence & Machine Learning** (First Class with Distinction, CGPA: 7.33/10) from P A College of Engineering, Mangalore. As a **Machine Learning & Deep Learning Engineer**, I specialize in crafting **end-to-end ML pipelines** using **PyTorch, FastAI, and Hugging Face Transformers**. My expertise spans **computer vision, NLP, and MLOps**, with hands-on experience as an **AI DevOps Engineer Intern** at Rooman Technology, where I automated deployment pipelines. I'm passionate about solving real-world problems with AI and am **open to relocation** (UAE/India tech hubs).
+I'm a **Bachelors in Engineering graduate in Artificial Intelligence & Machine Learning** (First Class with Distinction, CGPA: 7.33/10) from P A College of Engineering, Mangalore. As a **Machine Learning & Deep Learning Engineer**, I specialize in crafting **end-to-end ML pipelines** using **PyTorch, FastAI, and Hugging Face Transformers**. My expertise spans **computer vision, NLP, and MLOps**, with hands-on experience as an **AI DevOps Engineer Intern** at Rooman Technology, where I automated deployment pipelines. I'm passionate about solving real-world problems with AI and am **open to relocation** (UAE/India tech hubs).
 
 - 📍 **Location**: Thalassery, Kerala, India
 - 🎯 **Focus**: Deep Learning, Computer Vision, NLP, MLOps
@@ -123,17 +123,6 @@ P A College of Engineering, Mangalore | Dec 2021 – Aug 2025
 - 🏅 **Python for Data Science** – IBM (2022)  
   [Certificate](https://www.credly.com/badges/3ddec349-51e9-4746-9ca9-361f86abe275/linked_in_profile)
 - 🏅 **Problem Solving Using Computational Thinking** – University of Michigan (2022)
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilsiraju&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiraju&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="49%"/>
-</div>
-
----
 
 ## 📰 Recent Activity & Blog
 
