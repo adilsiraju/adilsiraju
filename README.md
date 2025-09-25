@@ -72,7 +72,7 @@ I'm a **B.E. graduate in Artificial Intelligence & Machine Learning** (First Cla
       <td><b>Medical Document Classifier</b></td>
       <td>Fine-tuned Bio_ClinicalBERT to classify medical texts across 13+ specialties with <b>81.08% accuracy</b> and a top <b>F1-score of 0.968</b>. Deployed as a Gradio web app.</td>
       <td>Hugging Face, Gradio, Python</td>
-      <td><a href="https://huggingface.co/spaces/adilsiraju/Medical-Case-Classifier">Demo</a> |<a href="https://github.com/adilsiraju/medical_document_classifier">Repo</a></td>
+      <td><a href="https://huggingface.co/spaces/adilsiraju/Medical-Case-Classifier">Demo</a> | <a href="https://github.com/adilsiraju/medical_document_classifier">Repo</a></td>
     </tr>
     <tr>
       <td><b>Architectural Style Classifier</b></td>
