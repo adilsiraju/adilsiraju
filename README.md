@@ -1,59 +1,168 @@
-# Hi there, I'm Mohammed Adil Siraju! 👋
+<div align="center">
+  <h1>👋 Hey, I'm Mohammed Adil Siraju!</h1>
+  <img src="https://github.com/user-attachments/assets/9ef604a6-f7e4-4034-89fa-ffd92d661607" alt="LinkedIn Banner" width="100%" style="max-width: 800px; border-radius: 10px;"/>
+  <p>
+    <a href="https://linkedin.com/in/mohammed-adil-siraju"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+    <a href="https://github.com/adilsiraju"><img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square" alt="GitHub"></a>
+    <a href="https://adilsiraju.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2ECC71?logo=vercel&style=flat-square" alt="Portfolio"></a>
+    <a href="mailto:mohdadilsiraju@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=flat-square" alt="Email"></a>
+  </p>
+</div>
 
-![LinkedIn Banner](https://github.com/user-attachments/assets/9ef604a6-f7e4-4034-89fa-ffd92d661607)
+---
 
-### 🚀 About Me
+## 🌟 About Me
 
-I'm a **B.E. graduate in Artificial Intelligence & Machine Learning** (First Class with Distinction, CGPA: 7.33/10) from P A College of Engineering, Mangalore. I'm a skilled **Machine Learning & Deep Learning Engineer** with expertise in **PyTorch, FastAI, Hugging Face Transformers**, and building end-to-end ML pipelines, including data preprocessing, model training, hyperparameter tuning, evaluation, and deployment. With hands-on experience in **computer vision, NLP, and MLOps**, I have a proven track record of delivering scalable, deployed ML applications with real-world impact. I'm passionate about leveraging AI to solve complex problems and am open to relocation (UAE/India tech hubs).
+I'm a **B.E. graduate in Artificial Intelligence & Machine Learning** (First Class with Distinction, CGPA: 7.33/10) from P A College of Engineering, Mangalore. As a **Machine Learning & Deep Learning Engineer**, I specialize in crafting **end-to-end ML pipelines** using **PyTorch, FastAI, and Hugging Face Transformers**. My expertise spans **computer vision, NLP, and MLOps**, with hands-on experience as an **AI DevOps Engineer Intern** at Rooman Technology, where I automated deployment pipelines. I'm passionate about solving real-world problems with AI and am **open to relocation** (UAE/India tech hubs).
 
-### 🛠️ Tech Stack
+- 📍 **Location**: Thalassery, Kerala, India
+- 🎯 **Focus**: Deep Learning, Computer Vision, NLP, MLOps
+- 💡 **Mission**: Building innovative, scalable AI solutions
 
-- **Core ML/DL**: Computer Vision, NLP, Supervised & Unsupervised Learning, Transfer Learning, Model Deployment
-- **Frameworks/Libraries**: PyTorch, FastAI, Hugging Face Transformers, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
-- **MLOps & Tools**: Docker, Kubernetes (basic), Git, Jenkins, Gradio, Jupyter
-- **Programming**: Python, SQL, JavaScript
-- **Web Tech**: Django, HTML/CSS
+---
 
-### 📈 Projects & Experience
+## 🛠️ Skills & Tech Stack
 
-- **Medical Document Classifier** - [Project](https://huggingface.co/spaces/adilsiraju/Medical-Case-Classifier) | [Repo](https://github.com/adilsiraju/medical_document_classifier)
-  - Developed a medical document classifier by fine-tuning a pre-trained **Bio_ClinicalBERT** model using **Hugging Face Transformers** on a dataset of clinical texts.
-  - Achieved **81.08% test accuracy** in classifying documents across 13+ medical specialties, with a top **F1-score of 0.968** for the "Cardiovascular / Pulmonary" specialty.
-  - Deployed an interactive web application using **Gradio** for real-time medical text classification.
+<div align="center">
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td><b>Core ML/DL</b></td>
+      <td>Computer Vision, NLP, Supervised/Unsupervised Learning, Transfer Learning, Model Deployment</td>
+    </tr>
+    <tr>
+      <td><b>Frameworks/Libraries</b></td>
+      <td>PyTorch, FastAI, Hugging Face Transformers, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn</td>
+    </tr>
+    <tr>
+      <td><b>MLOps & Tools</b></td>
+      <td>Docker, Kubernetes (basic), Git, Jenkins, Gradio, Jupyter, Supabase, GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><b>Programming</b></td>
+      <td>Python, SQL, JavaScript</td>
+    </tr>
+    <tr>
+      <td><b>Web Tech</b></td>
+      <td>Django, Flask, FastAPI, HTML/CSS</td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td>MongoDB, PostgreSQL, MySQL</td>
+    </tr>
+  </table>
+</div>
 
-- **Architectural Style Classifier** - [Project](https://adilsiraju.github.io/Architecture-Style-Classifier/) | [Repo](https://github.com/adilsiraju/Architecture-Style-Classifier/)
-  - Built and deployed a **CNN-based classifier** using **FastAI** and **PyTorch** to identify 25 architectural styles with **73% accuracy**.
-  - Trained on **10k+ images** from Kaggle, with custom dataset curation and preprocessing, using **transfer learning** with a pre-trained model.
-  - Deployed via **Gradio web app** (with Gradio API) and **GitHub Pages**, enabling real-time inference for 500+ public users.
+---
 
-- **Netflix Userbase Analysis** - [Repo](https://github.com/adilsiraju/Netflix-Userbase-EDA-Project)
-  - Conducted **exploratory data analysis (EDA)** on a Netflix userbase dataset (**8k+ records**) using **Python, Pandas, Matplotlib, and Seaborn**.
-  - Built visualizations to analyze user demographics, subscription patterns, and revenue distribution, identifying **churn-prone user groups** and regional trends for marketing optimization.
+## 🚀 Featured Projects
 
-- **EcoVest** - [Repo](https://github.com/adilsiraju/Ecovest)
-  - Developed a **full-stack, climate-conscious investment platform** using **Django** to assess the sustainability of investments.
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+      <th>Links</th>
+    </tr>
+    <tr>
+      <td><b>Medical Document Classifier</b></td>
+      <td>Fine-tuned Bio_ClinicalBERT to classify medical texts across 13+ specialties with <b>81.08% accuracy</b> and a top <b>F1-score of 0.968</b>. Deployed as a Gradio web app.</td>
+      <td>Hugging Face, Gradio, Python</td>
+      <td><a href="https://huggingface.co/spaces/adilsiraju/Medical-Case-Classifier">Demo</a> |<a href="https://github.com/adilsiraju/medical_document_classifier">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>Architectural Style Classifier</b></td>
+      <td>Built a CNN-based classifier for 25 architectural styles (<b>73% accuracy</b>) using transfer learning. Deployed via Gradio and GitHub Pages for 500+ users.</td>
+      <td>FastAI, PyTorch, Gradio</td>
+      <td><a href="https://adilsiraju.github.io/Architecture-Style-Classifier/">Demo</a> | <a href="https://github.com/adilsiraju/Architecture-Style-Classifier">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>Netflix Userbase Analysis</b></td>
+      <td>Conducted EDA on 8k+ Netflix records to uncover demographic and revenue trends, identifying churn-prone groups.</td>
+      <td>Pandas, Seaborn, Python</td>
+      <td><a href="https://github.com/adilsiraju/Netflix-Userbase-EDA-Project">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>EcoVest</b></td>
+      <td>Developed a full-stack platform for sustainable investments, integrating eco-conscious metrics.</td>
+      <td>Django, Python</td>
+      <td><a href="https://github.com/adilsiraju/Ecovest">Repo</a></td>
+    </tr>
+  </table>
+</div>
 
-- **AI DevOps Engineer Intern @ Rooman Technology (Sep 2024 – Feb 2025)**
-  - Automated **ML deployment pipelines** using **Docker, Kubernetes, and Jenkins**, reducing deployment cycle times by **30%**.
-  - Set up **CI/CD pipelines** in lab environments for automated model testing and deployment simulations.
-  - Supported the design of scalable infrastructure for ML workflows.
+---
 
-### 🎓 Education
+## 💼 Experience
 
-- **Bachelor of Engineering – Artificial Intelligence & Machine Learning** (First Class with Distinction, CGPA: 7.33/10)  
-  P A College of Engineering, Mangalore | Dec 2021 – Aug 2025  
-  *Relevant Coursework*: Artificial Intelligence, Machine Learning, Data Structures, Deep Learning, Cloud Computing, Data Science, Algorithms, Operating Systems
+### AI DevOps Engineer Intern • Rooman Technology, Mangalore  
+*Sep 2024 – Feb 2025*
+- 🛠️ Automated **ML deployment pipelines** with **Docker, Kubernetes, and Jenkins**, cutting deployment times by **30%**.
+- ⚙️ Set up **CI/CD pipelines** for model testing and deployment in lab environments.
+- 🏗️ Designed scalable infrastructure for ML workflows, boosting team efficiency.
 
-### 📜 Certifications
+---
 
-- **CS50x - Computer Science Fundamentals** - Harvard University (2025) - [Certificate](https://cs50.harvard.edu/certificates/dd51f4e9-ae15-4b97-b7d2-a327ed19e692)
-- **Python for Data Science** - IBM (2022) - [Certificate](https://www.credly.com/badges/3ddec349-51e9-4746-9ca9-361f86abe275/linked_in_profile)
-- **Problem Solving Using Computational Thinking** - University of Michigan (2022)
+## 🎓 Education
 
-### 🤝 Let's Connect
+**B.E. in Artificial Intelligence & Machine Learning**  
+P A College of Engineering, Mangalore | Dec 2021 – Aug 2025  
+- **CGPA**: 7.33/10 (First Class with Distinction)  
+- **Key Courses**: AI, Machine Learning, Deep Learning, Data Structures, Algorithms, Cloud Computing, Data Science
 
-- **Website**: [adilsiraju.vercel.app](https://adilsiraju.vercel.app)
-- **LinkedIn**: [Mohammed Adil Siraju](https://linkedin.com/in/mohammed-adil-siraju)
-- **GitHub**: [adilsiraju](https://github.com/adilsiraju)
-- **Email**: mohdadilsiraju@gmail.com
-- **Phone**: +91 8113936995
+---
+
+## 📜 Certifications
+
+- 🏅 **CS50x - Computer Science Fundamentals** – Harvard University (2025)  
+  [Certificate](https://cs50.harvard.edu/certificates/dd51f4e9-ae15-4b97-b7d2-a327ed19e692)
+- 🏅 **Python for Data Science** – IBM (2022)  
+  [Certificate](https://www.credly.com/badges/3ddec349-51e9-4746-9ca9-361f86abe275/linked_in_profile)
+- 🏅 **Problem Solving Using Computational Thinking** – University of Michigan (2022)
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adilsiraju&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsiraju&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="49%"/>
+</div>
+
+---
+
+## 📰 Recent Activity & Blog
+
+- 🛠️ Updated [Training-in-Progress](https://github.com/adilsiraju/Training-in-Progress) with notebooks on **sentiment analysis** and **text classification**.
+- 🚀 Improved **Medical Document Classifier** with enhanced preprocessing.
+- 🌐 Optimized [portfolio site](https://adilsiraju.vercel.app) for better SEO.
+
+**Latest Blog Posts** ([Read More](https://adilsiraju.github.io/Training-in-Progress/)):  
+- 🧠 Fine-Tuning Bio_ClinicalBERT for Medical Text Classification  
+- ⚙️ Scalable ML Pipelines with MLOps  
+- 🏛️ Lessons from Architectural Style Classification
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <p>
+    <a href="https://adilsiraju.vercel.app">🌐 Portfolio</a> •
+    <a href="https://linkedin.com/in/mohammed-adil-siraju">💼 LinkedIn</a> •
+    <a href="https://github.com/adilsiraju">📂 GitHub</a> •
+    <a href="mailto:mohdadilsiraju@gmail.com">📧 Email</a> •
+    <a href="tel:+918113936995">📞 +91 8113936995</a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <p>⭐ <i>When I'm not coding, I'm capturing architectural photography or dreaming up sustainable tech solutions!</i> ⭐</p>
+  <p><b>Let's build the future of AI together!</b></p>
+</div>
