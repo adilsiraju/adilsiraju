@@ -15,7 +15,7 @@
 
 I'm a **Bachelors in Engineering graduate in Artificial Intelligence & Machine Learning** (First Class with Distinction, CGPA: 7.33/10) from P A College of Engineering, Mangalore. As a **Machine Learning & Deep Learning Engineer**, I specialize in crafting **end-to-end ML pipelines** using **PyTorch, FastAI, and Hugging Face Transformers**. My expertise spans **computer vision, NLP, and MLOps**, with hands-on experience as an **AI DevOps Engineer Intern** at Rooman Technology, where I automated deployment pipelines. I'm passionate about solving real-world problems with AI and am **open to relocation** (UAE/India tech hubs).
 
-- 📍 **Location**: Thalassery, Kerala, India
+- 📍 **Location**: Dubai, United Arab Emirates
 - 🎯 **Focus**: Deep Learning, Computer Vision, NLP, MLOps
 - 💡 **Mission**: Building innovative, scalable AI solutions
 
